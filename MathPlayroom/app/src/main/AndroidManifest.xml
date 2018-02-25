@@ -19,7 +19,8 @@
         <activity android:name=".AdditionActivity" />
         <activity android:name=".SubtractionActivity" />
         <activity android:name=".MultiplicationActivity" />
-        <activity android:name=".DivisionActivity"></activity>
+        <activity android:name=".DivisionActivity" />
+        <activity android:name=".MainAdditionGameActivity"></activity>
     </application>
 
 </manifest>

@@ -31,6 +31,7 @@
         android:fontFamily="casual"/>
 
     <Spinner
+        android:id="@+id/levelSpinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:minWidth="300sp"
@@ -43,6 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Continue"
+        android:onClick="continueButtonClicked"
         android:width="200sp"/>
 
     <Button
